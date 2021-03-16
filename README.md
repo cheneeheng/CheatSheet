@@ -10,3 +10,7 @@ A collection of websites &amp; codes on datasets, tutorials, commands and useful
 ## Tensorflow
 1. Quickstart into Tensorflow(-2)
    - https://github.com/tensorflow/docs/tree/master/site/en/tutorials/quickstart
+
+### Keras
+1. Intro to keras 
+   - https://keras.io/getting_started/intro_to_keras_for_researchers/
